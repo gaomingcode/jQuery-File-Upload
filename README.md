@@ -1,5 +1,19 @@
 # jQuery File Upload
 
+[![GitHub Version](https://img.shields.io/github/release/gaomingcode/jquery-fileupload.svg)](https://github.com/gaomingcode/jquery-fileupload)
+[![Packagist Downloads](https://img.shields.io/packagist/dm/gaomingcode/jquery.fileupload)](https://github.com/gaomingcode/jquery-fileupload)
+[![Github License](https://img.shields.io/github/license/gaomingcode/jquery-fileupload)](https://github.com/gaomingcode/jquery-fileupload)
+
+## Installation
+
+### Composer
+
+```
+composer require gaomingcode/jquery.fileupload
+```
+
+## ReadMe from Origin
+
 ## Contents
 
 - [Description](#description)
